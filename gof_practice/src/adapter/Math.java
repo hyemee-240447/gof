@@ -1,4 +1,4 @@
-package gof_practice.adapter;
+package adapter;
 
 public class Math {
 	public static double twoTime(double num) {

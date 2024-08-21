@@ -1,4 +1,4 @@
-package gof_practice.strategy;
+package strategy;
 
 public class GameCharacter {
 
